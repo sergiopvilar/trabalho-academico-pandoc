@@ -21,4 +21,5 @@ O script `./tools/touch.sh` vai criar um arquivo com um cabeçalho já prévio p
 
 ### Gerando os PDFs
 
-Para gerar os PDFs basta rodar o comando `./tools/build.sh`, os PDFs serão criados na raiz do projeto.
+Para gerar os PDFs basta rodar o comando `./tools/build.sh`, qualquer markdown dentro do projeto que não esteja na
+pasta `/tools` será convertido em PDF, os PDFs serão criados na raiz do projeto.
