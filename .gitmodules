@@ -1,3 +1,0 @@
-[submodule "tools/template"]
-	path = tools/template
-	url = git@github.com:Wandmalfarbe/pandoc-latex-template.git
