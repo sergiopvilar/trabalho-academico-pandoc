@@ -6,6 +6,10 @@ conversão de arquivos Markdown em um belo PDF com capa.
 Este projeto usa a template [eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template), que possui vários
 [exemplos](https://github.com/Wandmalfarbe/pandoc-latex-template/tree/master/examples) de uso.
 
+## Clonando este repositório
+
+    git clone --recursive git@github.com:sergiopvilar/trabalho-academico-pandoc.git
+
 ## Dependências
 
 - Pandoc
